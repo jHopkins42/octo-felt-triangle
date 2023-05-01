@@ -41,7 +41,7 @@ N/A
 What does the color blue taste like?  Why was this so difficult to do when I enjoy front-end styling?
 
 ### Screenshots
-Not available at this time
+![Alt screenshot of refactored project website](./assets/images/refactor/refactor%20screen%20shot.png)
 
 ### Links
 Main Repository: https://github.com/jHopkins42/SampleMinionTracker
